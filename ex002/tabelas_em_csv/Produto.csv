@@ -1,0 +1,5 @@
+id,categoria,nome,quantidade_estoque,valor
+2bd66983-97cd-4d28-a9d2-a1932d7d4a23,Eletrodomestico  ,Geladeira,4,4300.0
+6a64763a-f491-427a-aa22-30a76c7e6ccf,Eletronico ,Celular,5,3400.0
+cf1a0ddc-d9b7-4dc5-b78e-3070d11e4560,Eletronico,Televisão,5,5600.0
+363bc6b2-2030-47a2-8009-e5a4eee23cb5,Moveis Domestico,Sofá,4,3200.0
