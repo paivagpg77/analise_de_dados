@@ -42,7 +42,7 @@ Este projeto utiliza:
 
 ### 1. Pré-requisitos
 
-Tenha o **Python 3** instalado na sua máquina.  
+Tenha o **Python 3.12** e as bibliotecas instalado na sua máquina.  
 Você pode verificar com:
 
 ```bash
